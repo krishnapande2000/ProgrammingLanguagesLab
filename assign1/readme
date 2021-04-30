@@ -1,0 +1,13 @@
+TO Compile and Execute:
+____________________________________________________________________________________________________
+
+Execute the following commands on terminal in the folder containing the files:
+
+1) javac filename.java
+2) java filename
+
+example:
+javac PartA.java
+java PartA
+
+_____________________________________________________________________________________________________
